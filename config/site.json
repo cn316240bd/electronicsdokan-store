@@ -1,0 +1,13 @@
+{
+  "storeName": "Electronics Dokan",
+  "whatsapp": "8801938640733",
+  "whatsappDisplay": "01938640733",
+  "address": "Phultala, Khulna, Bangladesh",
+  "facebook": "https://facebook.com/electronicsdokanin",
+  "tiktok": "https://tiktok.com/@electronicsdokan",
+  "domain": "electronicsdokan.store",
+  "currency": "BDT",
+  "currencySymbol": "৳",
+  "imageBasePath": "./assets/products/",
+  "placeholderPath": "./assets/placeholders/product-placeholder.svg"
+}

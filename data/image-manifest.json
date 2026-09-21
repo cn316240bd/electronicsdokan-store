@@ -1,0 +1,833 @@
+{
+  "products": {
+    "cat-001-chyon-adhikary": {
+      "default": "cat-001-chyon-adhikary.webp",
+      "variants": {}
+    },
+    "cat-002-sunwa-yx-360trn-analog-multimeter-pointer-ac-dc-voltage-current-tester-with-leads": {
+      "default": "cat-002-sunwa-yx-360trn-analog-multimeter-pointer-ac-dc-voltage-current-tester-with-leads.webp",
+      "variants": {}
+    },
+    "cat-003-camel-gg-5-hot-melt-glue-gun-100-240v-electric-heat-glue-gun-for-craft-diy-repairs": {
+      "default": "cat-003-camel-gg-5-hot-melt-glue-gun-100-240v-electric-heat-glue-gun-for-craft-diy-repairs.webp",
+      "variants": {}
+    },
+    "cat-004-esd-15-curved-tip-precision-tweezers-121mm-stainless-steel-bent-tip-tweezer-for-electronics": {
+      "default": "cat-004-esd-15-curved-tip-precision-tweezers-121mm-stainless-steel-bent-tip-tweezer-for-electronics.webp",
+      "variants": {}
+    },
+    "cat-005-metal-slingshot-release-trigger-mechanism-diy-crossbow-slingshot-trigger-device": {
+      "default": "cat-005-metal-slingshot-release-trigger-mechanism-diy-crossbow-slingshot-trigger-device.webp",
+      "variants": {}
+    },
+    "cat-006-precision-hobby-knife-with-11-blades-5-5-inch-craft-knife-for-pcb-model-making": {
+      "default": "cat-006-precision-hobby-knife-with-11-blades-5-5-inch-craft-knife-for-pcb-model-making.webp",
+      "variants": {}
+    },
+    "cat-007-usb-type-c-male-plug-solder-connector-board-jrc-bcc8-4-pin-6-pin-usb-c-repair-plug": {
+      "default": "cat-007-usb-type-c-male-plug-solder-connector-board-jrc-bcc8-4-pin-6-pin-usb-c-repair-plug.webp",
+      "variants": {}
+    },
+    "cat-008-bluetooth-mp3-decoder-board-with-color-display-usb-tf-card-aux-fm-radio-eq": {
+      "default": "cat-008-bluetooth-mp3-decoder-board-with-color-display-usb-tf-card-aux-fm-radio-eq.webp",
+      "variants": {}
+    },
+    "cat-009-digital-fm-wireless-transmitter-module-with-lcd-display-87-5-108mhz-dsp-pll-board": {
+      "default": "cat-009-digital-fm-wireless-transmitter-module-with-lcd-display-87-5-108mhz-dsp-pll-board.webp",
+      "variants": {}
+    },
+    "cat-010-jrc4558d-dual-operational-amplifier-ic-dip-8": {
+      "default": "cat-010-jrc4558d-dual-operational-amplifier-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-011-la4440-dual-audio-power-amplifier-ic-zip-13": {
+      "default": "cat-011-la4440-dual-audio-power-amplifier-ic-zip-13.webp",
+      "variants": {}
+    },
+    "cat-012-la4440-dual-audio-power-amplifier-ic-zip-13-low-quality": {
+      "default": "cat-012-la4440-dual-audio-power-amplifier-ic-zip-13-low-quality.webp",
+      "variants": {}
+    },
+    "cat-013-lm386-audio-power-amplifier-ic-dip-8": {
+      "default": "cat-013-lm386-audio-power-amplifier-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-014-ne5532-hi-fi-preamplifier-audio-tone-control-board-mt-version-2-1-treble-midrange-bass-volume-control": {
+      "default": "cat-014-ne5532-hi-fi-preamplifier-audio-tone-control-board-mt-version-2-1-treble-midrange-bass-volume-control.webp",
+      "variants": {}
+    },
+    "cat-015-pam8403-mini-digital-audio-amplifier-board-2x3w-class-d-stereo-amp-module": {
+      "default": "cat-015-pam8403-mini-digital-audio-amplifier-board-2x3w-class-d-stereo-amp-module.webp",
+      "variants": {}
+    },
+    "cat-016-rotary-potentiometer-b100k-with-nut-washer-audio-pot": {
+      "default": "cat-016-rotary-potentiometer-b100k-with-nut-washer-audio-pot.webp",
+      "variants": {}
+    },
+    "cat-017-rotary-potentiometer-b50k-with-nut-washer-audio-pot": {
+      "default": "cat-017-rotary-potentiometer-b50k-with-nut-washer-audio-pot.webp",
+      "variants": {}
+    },
+    "cat-018-single-supply-low-pass-filter-board-subwoofer-preamp-board-2-1-channel-dc10-30v-creek": {
+      "default": "cat-018-single-supply-low-pass-filter-board-subwoofer-preamp-board-2-1-channel-dc10-30v-creek.webp",
+      "variants": {}
+    },
+    "cat-019-tda2030a-mono-audio-amplifier-board-with-heatsink-diy-amplifier-module": {
+      "default": "cat-019-tda2030a-mono-audio-amplifier-board-with-heatsink-diy-amplifier-module.webp",
+      "variants": {}
+    },
+    "cat-020-tda2822-dual-low-voltage-audio-power-amplifier-ic-dip-8": {
+      "default": "cat-020-tda2822-dual-low-voltage-audio-power-amplifier-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-021-tea2025b-dual-audio-power-amplifier-ic-dip-16": {
+      "default": "cat-021-tea2025b-dual-audio-power-amplifier-ic-dip-16.webp",
+      "variants": {}
+    },
+    "cat-022-tpa3110-xh-a232-30w-30w-2-0-channel-digital-stereo-audio-power-amplifier-board-dc-8-26v-3a": {
+      "default": "cat-022-tpa3110-xh-a232-30w-30w-2-0-channel-digital-stereo-audio-power-amplifier-board-dc-8-26v-3a.webp",
+      "variants": {}
+    },
+    "cat-023-wireless-bluetooth-5-0-mp3-decoder-audio-receiver-module-auxtfusb-for-car-home-stereo-speaker-diy": {
+      "default": "cat-023-wireless-bluetooth-5-0-mp3-decoder-audio-receiver-module-auxtfusb-for-car-home-stereo-speaker-diy.webp",
+      "variants": {}
+    },
+    "cat-024-wp4-10-4-pin-speaker-terminal-push-connector": {
+      "default": "cat-024-wp4-10-4-pin-speaker-terminal-push-connector.webp",
+      "variants": {}
+    },
+    "cat-025-03962a-tp4056-micro-usb-5v-1a-lithium-battery-charger-board-dual-protection-module": {
+      "default": "cat-025-03962a-tp4056-micro-usb-5v-1a-lithium-battery-charger-board-dual-protection-module.webp",
+      "variants": {}
+    },
+    "cat-026-12v-battery-low-voltage-cutoff-protection-switch-module-undervoltage-relay-controller": {
+      "default": "cat-026-12v-battery-low-voltage-cutoff-protection-switch-module-undervoltage-relay-controller.webp",
+      "variants": {}
+    },
+    "cat-027-2s-li-ion-battery-bms-protection-board-2-cell-series-balance-charging-protection-module-type-a": {
+      "default": "cat-027-2s-li-ion-battery-bms-protection-board-2-cell-series-balance-charging-protection-module-type-a.webp",
+      "variants": {}
+    },
+    "cat-028-2s-li-ion-battery-bms-protection-board-2-cell-series-protection-module-type-b-sy-brand": {
+      "default": "cat-028-2s-li-ion-battery-bms-protection-board-2-cell-series-protection-module-type-b-sy-brand.webp",
+      "variants": {}
+    },
+    "cat-029-3s-20a-li-ion-lithium-battery-18650-charger-pcb-bms-protection-board": {
+      "default": "cat-029-3s-20a-li-ion-lithium-battery-18650-charger-pcb-bms-protection-board.webp",
+      "variants": {}
+    },
+    "cat-030-micro-usb-lithium-battery-charging-boost-module-tp4056-style-charger-with-boost-output": {
+      "default": "cat-030-micro-usb-lithium-battery-charging-boost-module-tp4056-style-charger-with-boost-output.webp",
+      "variants": {}
+    },
+    "cat-031-type-c-15w-2s-lithium-battery-charging-boost-module-2-cell-series-fast-charger": {
+      "default": "cat-031-type-c-15w-2s-lithium-battery-charging-boost-module-2-cell-series-fast-charger.webp",
+      "variants": {}
+    },
+    "cat-032-xh-m604-battery-charge-discharge-controller-module-voltage-protection-board-with-relay-display": {
+      "default": "cat-032-xh-m604-battery-charge-discharge-controller-module-voltage-protection-board-with-relay-display.webp",
+      "variants": {}
+    },
+    "ed-cercap": {
+      "default": "ed-cercap.webp",
+      "variants": {
+        "ed-cercap-47": "ed-cercap-47.webp",
+        "ed-cercap-33": "ed-cercap-33.webp",
+        "ed-cercap-39": "ed-cercap-39.webp",
+        "ed-cercap-101": "ed-cercap-101.webp",
+        "ed-cercap-10": "ed-cercap-10.webp",
+        "ed-cercap-102": "ed-cercap-102.webp",
+        "ed-cercap-22": "ed-cercap-22.webp",
+        "ed-cercap-27": "ed-cercap-27.webp",
+        "ed-cercap-103": "ed-cercap-103.webp",
+        "ed-cercap-4-7": "ed-cercap-4-7.webp",
+        "ed-cercap-104": "ed-cercap-104.webp",
+        "ed-cercap-6": "ed-cercap-6.webp",
+        "ed-cercap-2-2": "ed-cercap-2-2.webp",
+        "ed-cercap-6-8": "ed-cercap-6-8.webp",
+        "ed-cercap-151": "ed-cercap-151.webp",
+        "ed-cercap-30": "ed-cercap-30.webp",
+        "ed-cercap-223": "ed-cercap-223.webp",
+        "ed-cercap-203": "ed-cercap-203.webp",
+        "ed-cercap-12": "ed-cercap-12.webp",
+        "ed-cercap-471": "ed-cercap-471.webp",
+        "ed-cercap-15": "ed-cercap-15.webp"
+      }
+    },
+    "ed-elcap": {
+      "default": "ed-elcap.webp",
+      "variants": {
+        "ed-elcap-470uf-63v": "ed-elcap-470uf-63v.webp",
+        "ed-elcap-1000uf-25v": "ed-elcap-1000uf-25v.webp",
+        "ed-elcap-3300uf-50v": "ed-elcap-3300uf-50v.webp",
+        "ed-elcap-1000uf-63v": "ed-elcap-1000uf-63v.webp",
+        "ed-elcap-2-2uf-50v": "ed-elcap-2-2uf-50v.webp",
+        "ed-elcap-10uf-25v": "ed-elcap-10uf-25v.webp",
+        "ed-elcap-220uf-25v": "ed-elcap-220uf-25v.webp",
+        "ed-elcap-220uf-63v": "ed-elcap-220uf-63v.webp",
+        "ed-elcap-470uf-25v": "ed-elcap-470uf-25v.webp",
+        "ed-elcap-1uf-50v": "ed-elcap-1uf-50v.webp",
+        "ed-elcap-2200uf-50v": "ed-elcap-2200uf-50v.webp",
+        "ed-elcap-3300uf-35v": "ed-elcap-3300uf-35v.webp",
+        "ed-elcap-4-7uf-50v": "ed-elcap-4-7uf-50v.webp",
+        "ed-elcap-10uf-50v": "ed-elcap-10uf-50v.webp",
+        "ed-elcap-330uf-25v": "ed-elcap-330uf-25v.webp",
+        "ed-elcap-100uf-16v": "ed-elcap-100uf-16v.webp",
+        "ed-elcap-22uf-50v": "ed-elcap-22uf-50v.webp",
+        "ed-elcap-470uf-16v": "ed-elcap-470uf-16v.webp",
+        "ed-elcap-4-7uf-400v": "ed-elcap-4-7uf-400v.webp",
+        "ed-elcap-100uf-16v-b": "ed-elcap-100uf-16v-b.webp",
+        "ed-elcap-3-3uf-400v": "ed-elcap-3-3uf-400v.webp"
+      }
+    },
+    "cat-035-high-voltage-ceramic-disc-capacitors-bulk-pack-vanxy": {
+      "default": "cat-035-high-voltage-ceramic-disc-capacitors-bulk-pack-vanxy.webp",
+      "variants": {}
+    },
+    "cat-036-esp-01-esp8266-serial-wi-fi-transceiver-module-wireless-internet-iot-board": {
+      "default": "cat-036-esp-01-esp8266-serial-wi-fi-transceiver-module-wireless-internet-iot-board.webp",
+      "variants": {}
+    },
+    "cat-037-keshy-usb-to-esp-01-esp8266-adapter-board-serial-wireless-programmer-module": {
+      "default": "cat-037-keshy-usb-to-esp-01-esp8266-adapter-board-serial-wireless-programmer-module.webp",
+      "variants": {}
+    },
+    "cat-038-sim800-gsm-module-bare-board-sim-card-slot-gsm-gprs-circuit-board": {
+      "default": "cat-038-sim800-gsm-module-bare-board-sim-card-slot-gsm-gprs-circuit-board.webp",
+      "variants": {}
+    },
+    "cat-039-sim900a-gsm-gprs-module-with-antenna-quad-band-serial-communication-module": {
+      "default": "cat-039-sim900a-gsm-gprs-module-with-antenna-quad-band-serial-communication-module.webp",
+      "variants": {}
+    },
+    "cat-040-0603-red-smd-led-620-625nm-5-pic": {
+      "default": "cat-040-0603-red-smd-led-620-625nm-5-pic.webp",
+      "variants": {}
+    },
+    "cat-041-13001-npn-power-transistor-to-92": {
+      "default": "cat-041-13001-npn-power-transistor-to-92.webp",
+      "variants": {}
+    },
+    "cat-042-16-pin-dip-ic-socket-base": {
+      "default": "cat-042-16-pin-dip-ic-socket-base.webp",
+      "variants": {}
+    },
+    "cat-043-1n5399-rectifier-diode-1000v-1-5a-do-15-10pcs": {
+      "default": "cat-043-1n5399-rectifier-diode-1000v-1-5a-do-15-10pcs.webp",
+      "variants": {}
+    },
+    "cat-044-2n2219a-high-speed-npn-power-transistor-to-39-metal-can-switching-amp-transistor": {
+      "default": "cat-044-2n2219a-high-speed-npn-power-transistor-to-39-metal-can-switching-amp-transistor.webp",
+      "variants": {}
+    },
+    "cat-045-2n3866-high-frequency-npn-transistor-to-39-metal-can-rf-amplifier-transistor": {
+      "default": "cat-045-2n3866-high-frequency-npn-transistor-to-39-metal-can-rf-amplifier-transistor.webp",
+      "variants": {}
+    },
+    "cat-046-2sc1971-c1971-npn-vhf-rf-power-transistor-to-220-6w-175mhz-rf-output-transistor": {
+      "default": "cat-046-2sc1971-c1971-npn-vhf-rf-power-transistor-to-220-6w-175mhz-rf-output-transistor.webp",
+      "variants": {}
+    },
+    "cat-047-30f124-igbt-transistor-to-3p": {
+      "default": "cat-047-30f124-igbt-transistor-to-3p.webp",
+      "variants": {}
+    },
+    "cat-048-40-pin-female-header-strip-2-54mm-single-row": {
+      "default": "cat-048-40-pin-female-header-strip-2-54mm-single-row.webp",
+      "variants": {}
+    },
+    "cat-049-40-pin-male-header-strip-2-54mm-single-row": {
+      "default": "cat-049-40-pin-male-header-strip-2-54mm-single-row.webp",
+      "variants": {}
+    },
+    "cat-050-60w-ceramic-cartridge-heater-65mm-soldering-iron-3d-printer-heating-element": {
+      "default": "cat-050-60w-ceramic-cartridge-heater-65mm-soldering-iron-3d-printer-heating-element.webp",
+      "variants": {}
+    },
+    "cat-051-7n60-n-channel-power-mosfet-7a-600v-to-220": {
+      "default": "cat-051-7n60-n-channel-power-mosfet-7a-600v-to-220.webp",
+      "variants": {}
+    },
+    "cat-052-8-pin-dip-ic-socket-base-sy": {
+      "default": "cat-052-8-pin-dip-ic-socket-base-sy.webp",
+      "variants": {}
+    },
+    "cat-053-bd135-npn-power-transistor-to-126": {
+      "default": "cat-053-bd135-npn-power-transistor-to-126.webp",
+      "variants": {}
+    },
+    "cat-054-bd139-npn-power-transistor-to-126": {
+      "default": "cat-054-bd139-npn-power-transistor-to-126.webp",
+      "variants": {}
+    },
+    "cat-055-bd140-pnp-power-transistor-to-126": {
+      "default": "cat-055-bd140-pnp-power-transistor-to-126.webp",
+      "variants": {}
+    },
+    "cat-056-bf494-npn-medium-frequency-rf-transistor-to-92-am-fm-radio-oscillator-transistor": {
+      "default": "cat-056-bf494-npn-medium-frequency-rf-transistor-to-92-am-fm-radio-oscillator-transistor.webp",
+      "variants": {}
+    },
+    "cat-057-bt136-triac-4a-600v-to-220": {
+      "default": "cat-057-bt136-triac-4a-600v-to-220.webp",
+      "variants": {}
+    },
+    "cat-058-bt137-triac-8a-600v-to-220": {
+      "default": "cat-058-bt137-triac-8a-600v-to-220.webp",
+      "variants": {}
+    },
+    "cat-059-cd40174be-cmos-hex-d-type-flip-flop-ic-dip-16-logic-ic-component": {
+      "default": "cat-059-cd40174be-cmos-hex-d-type-flip-flop-ic-dip-16-logic-ic-component.webp",
+      "variants": {}
+    },
+    "cat-060-d882-npn-power-transistor-to-126": {
+      "default": "cat-060-d882-npn-power-transistor-to-126.webp",
+      "variants": {}
+    },
+    "cat-061-e13003-2-npn-power-transistor-to-126": {
+      "default": "cat-061-e13003-2-npn-power-transistor-to-126.webp",
+      "variants": {}
+    },
+    "cat-062-fga25n120-1200v-25a-igbt-transistor-high-power-switching-induction-cooker-igbt": {
+      "default": "cat-062-fga25n120-1200v-25a-igbt-transistor-high-power-switching-induction-cooker-igbt.webp",
+      "variants": {}
+    },
+    "cat-063-fqpf12n60c-n-channel-power-mosfet-to-220f": {
+      "default": "cat-063-fqpf12n60c-n-channel-power-mosfet-to-220f.webp",
+      "variants": {}
+    },
+    "cat-064-fr607-fast-recovery-rectifier-diode-6a-1000v-pack": {
+      "default": "cat-064-fr607-fast-recovery-rectifier-diode-6a-1000v-pack.webp",
+      "variants": {}
+    },
+    "cat-065-glass-reed-switch-magnetic-sensor-liludin": {
+      "default": "cat-065-glass-reed-switch-magnetic-sensor-liludin.webp",
+      "variants": {}
+    },
+    "cat-066-i-shaped-dip-power-inductor-coil": {
+      "default": "cat-066-i-shaped-dip-power-inductor-coil.webp",
+      "variants": {}
+    },
+    "cat-067-irf224-n-channel-power-mosfet-3-8a-250v-to-220": {
+      "default": "cat-067-irf224-n-channel-power-mosfet-3-8a-250v-to-220.webp",
+      "variants": {}
+    },
+    "cat-068-irf770-n-channel-power-mosfet-8a-400v-to-220": {
+      "default": "cat-068-irf770-n-channel-power-mosfet-8a-400v-to-220.webp",
+      "variants": {}
+    },
+    "cat-069-irfz44n-n-channel-power-mosfet-to-220": {
+      "default": "cat-069-irfz44n-n-channel-power-mosfet-to-220.webp",
+      "variants": {}
+    },
+    "cat-070-kbpc5010-bridge-rectifier-50a-1000v-metal-case": {
+      "default": "cat-070-kbpc5010-bridge-rectifier-50a-1000v-metal-case.webp",
+      "variants": {}
+    },
+    "cat-071-lm338t-adjustable-voltage-regulator-to-220-5a": {
+      "default": "cat-071-lm338t-adjustable-voltage-regulator-to-220-5a.webp",
+      "variants": {}
+    },
+    "cat-072-mps2907-pnp-general-purpose-transistor-to-92": {
+      "default": "cat-072-mps2907-pnp-general-purpose-transistor-to-92.webp",
+      "variants": {}
+    },
+    "cat-073-piezo-contact-microphone-sensor-disc-with-wires-pack": {
+      "default": "cat-073-piezo-contact-microphone-sensor-disc-with-wires-pack.webp",
+      "variants": {}
+    },
+    "cat-074-tyn612-scr-thyristor-12a-600v-to-220": {
+      "default": "cat-074-tyn612-scr-thyristor-12a-600v-to-220.webp",
+      "variants": {}
+    },
+    "cat-075-vs1838b-infrared-ir-receiver-sensor": {
+      "default": "cat-075-vs1838b-infrared-ir-receiver-sensor.webp",
+      "variants": {}
+    },
+    "cat-076-1602-16-2-character-lcd-display-module-green-backlight-hd44780-standard-screen": {
+      "default": "cat-076-1602-16-2-character-lcd-display-module-green-backlight-hd44780-standard-screen.webp",
+      "variants": {}
+    },
+    "cat-077-2004-20-4-character-lcd-display-module-blue-screen-5v-hd44780-large-screen": {
+      "default": "cat-077-2004-20-4-character-lcd-display-module-blue-screen-5v-hd44780-large-screen.webp",
+      "variants": {}
+    },
+    "cat-078-esp32-devkit-board-cp2102-38-pin-micro-usb-wifi-bluetooth-dual-core-iot-board": {
+      "default": "cat-078-esp32-devkit-board-cp2102-38-pin-micro-usb-wifi-bluetooth-dual-core-iot-board.webp",
+      "variants": {}
+    },
+    "cat-079-esp8266-nodemcu-development-board-wifi-iot-board-with-type-c-usb": {
+      "default": "cat-079-esp8266-nodemcu-development-board-wifi-iot-board-with-type-c-usb.webp",
+      "variants": {}
+    },
+    "cat-080-iic-i2c-interface-adapter-board-for-lcd1602-hw-61-serial-lcd-adaptation-module": {
+      "default": "cat-080-iic-i2c-interface-adapter-board-for-lcd1602-hw-61-serial-lcd-adaptation-module.webp",
+      "variants": {}
+    },
+    "cat-081-szytf-nano3-compatible-mini-development-board-lgt8f328p-arduino-nano-compatible-type-c-board": {
+      "default": "cat-081-szytf-nano3-compatible-mini-development-board-lgt8f328p-arduino-nano-compatible-type-c-board.webp",
+      "variants": {}
+    },
+    "cat-082-db-3-diac-trigger-diode-bidirectional-2a-28-36v-do-35": {
+      "default": "cat-082-db-3-diac-trigger-diode-bidirectional-2a-28-36v-do-35.webp",
+      "variants": {}
+    },
+    "cat-083-stps2045ct-dual-schottky-rectifier-20a-45v-to-220": {
+      "default": "cat-083-stps2045ct-dual-schottky-rectifier-20a-45v-to-220.webp",
+      "variants": {}
+    },
+    "cat-084-8-8-red-led-dot-matrix-display-module-max7219": {
+      "default": "cat-084-8-8-red-led-dot-matrix-display-module-max7219.webp",
+      "variants": {}
+    },
+    "cat-085-max7219-4-in-1-dot-matrix-led-display-module": {
+      "default": "cat-085-max7219-4-in-1-dot-matrix-led-display-module.webp",
+      "variants": {}
+    },
+    "cat-086-10w-high-power-cob-led-chip-white-diy-floodlight-spotlight-led": {
+      "default": "cat-086-10w-high-power-cob-led-chip-white-diy-floodlight-spotlight-led.webp",
+      "variants": {}
+    },
+    "cat-087-4-digit-led-digital-clock-diy-kit-stc12c2052-electronic-soldering-practice-kit-with-alarm": {
+      "default": "cat-087-4-digit-led-digital-clock-diy-kit-stc12c2052-electronic-soldering-practice-kit-with-alarm.webp",
+      "variants": {}
+    },
+    "cat-088-4-head-ultrasonic-mist-maker-driver-module-usb-atomizer-fogger-board-with-ceramic-discs": {
+      "default": "cat-088-4-head-ultrasonic-mist-maker-driver-module-usb-atomizer-fogger-board-with-ceramic-discs.webp",
+      "variants": {}
+    },
+    "cat-089-4-5v-650nm-red-laser-dot-diode-head-module-5mw-laser-transmitter-component": {
+      "default": "cat-089-4-5v-650nm-red-laser-dot-diode-head-module-5mw-laser-transmitter-component.webp",
+      "variants": {}
+    },
+    "cat-090-775-motor-water-pump-diy-kit-plastic-impeller-housing-screws-set-pink": {
+      "default": "cat-090-775-motor-water-pump-diy-kit-plastic-impeller-housing-screws-set-pink.webp",
+      "variants": {}
+    },
+    "cat-091-czb6721960-fm-am-radio-receiver-diy-soldering-kit-electronic-learning-kit-with-pcb": {
+      "default": "cat-091-czb6721960-fm-am-radio-receiver-diy-soldering-kit-electronic-learning-kit-with-pcb.webp",
+      "variants": {}
+    },
+    "cat-092-elec-lifes-10-led-chaser-light-diy-kit-ne555-sequential-led-running-light-soldering-kit": {
+      "default": "cat-092-elec-lifes-10-led-chaser-light-diy-kit-ne555-sequential-led-running-light-soldering-kit.webp",
+      "variants": {}
+    },
+    "cat-093-goat-sh-e-879-3-digit-led-clock-diy-kit-hour-minute-second-display-soldering-kit": {
+      "default": "cat-093-goat-sh-e-879-3-digit-led-clock-diy-kit-hour-minute-second-display-soldering-kit.webp",
+      "variants": {}
+    },
+    "cat-094-hydz-wireless-charging-coil-module-diy-kit-induction-charger-circuit-kit": {
+      "default": "cat-094-hydz-wireless-charging-coil-module-diy-kit-induction-charger-circuit-kit.webp",
+      "variants": {}
+    },
+    "cat-095-javino-dc3-5v-high-voltage-generator-diy-kit-mini-spark-generator-kit": {
+      "default": "cat-095-javino-dc3-5v-high-voltage-generator-diy-kit-mini-spark-generator-kit.webp",
+      "variants": {}
+    },
+    "cat-096-javino-high-voltage-generator-module-with-heatsink-zvs-driver-boost-kit": {
+      "default": "cat-096-javino-high-voltage-generator-module-with-heatsink-zvs-driver-boost-kit.webp",
+      "variants": {}
+    },
+    "cat-097-keshy-fm-stereo-radio-diy-kit-76-108mhz-wireless-transmitter-receiver-soldering-kit": {
+      "default": "cat-097-keshy-fm-stereo-radio-diy-kit-76-108mhz-wireless-transmitter-receiver-soldering-kit.webp",
+      "variants": {}
+    },
+    "cat-098-mini-diaphragm-water-pump-dc-motor-driven-small-pump-for-diy-projects": {
+      "default": "cat-098-mini-diaphragm-water-pump-dc-motor-driven-small-pump-for-diy-projects.webp",
+      "variants": {}
+    },
+    "cat-099-mini-vibration-atomizer-mist-maker-module-with-casing-usb-type-c-humidifier-driver-board": {
+      "default": "cat-099-mini-vibration-atomizer-mist-maker-module-with-casing-usb-type-c-humidifier-driver-board.webp",
+      "variants": {}
+    },
+    "cat-100-rf-300-micro-dc-solar-fan-motor-dc-3-6v-low-power-high-efficiency-motor-for-diy-projects": {
+      "default": "cat-100-rf-300-micro-dc-solar-fan-motor-dc-3-6v-low-power-high-efficiency-motor-for-diy-projects.webp",
+      "variants": {}
+    },
+    "cat-101-white-dc-4v-5w-cob-led-ring-light-round-high-power-led-chip-for-diy-lighting": {
+      "default": "cat-101-white-dc-4v-5w-cob-led-ring-light-round-high-power-led-chip-for-diy-lighting.webp",
+      "variants": {}
+    },
+    "cat-102-winwin-rotating-led-electronic-clock-diy-kit-round-pcb-soldering-kit": {
+      "default": "cat-102-winwin-rotating-led-electronic-clock-diy-kit-round-pcb-soldering-kit.webp",
+      "variants": {}
+    },
+    "cat-103-l-faster-250w-brushed-dc-motor-speed-controller-box-electric-bike-scooter-controller-with-full-wiring": {
+      "default": "cat-103-l-faster-250w-brushed-dc-motor-speed-controller-box-electric-bike-scooter-controller-with-full-wiring.webp",
+      "variants": {}
+    },
+    "cat-104-l-faster-electric-bike-conversion-kit-accessories-250w-motor-kit-with-chain-keys-throttle-bracket": {
+      "default": "cat-104-l-faster-electric-bike-conversion-kit-accessories-250w-motor-kit-with-chain-keys-throttle-bracket.webp",
+      "variants": {}
+    },
+    "cat-105-htc-2-digital-clock-alarm-hygrometer-thermometer-lcd-temperature-humidity-monitor-with-wired-sensor": {
+      "default": "cat-105-htc-2-digital-clock-alarm-hygrometer-thermometer-lcd-temperature-humidity-monitor-with-wired-sensor.webp",
+      "variants": {}
+    },
+    "cat-106-mini-lcd-digital-thermometer-hygrometer-with-probe-compact-temperature-humidity-meter": {
+      "default": "cat-106-mini-lcd-digital-thermometer-hygrometer-with-probe-compact-temperature-humidity-meter.webp",
+      "variants": {}
+    },
+    "cat-107-mt87-digital-clamp-meter-ac-dc-current-voltage-clamp-multimeter": {
+      "default": "cat-107-mt87-digital-clamp-meter-ac-dc-current-voltage-clamp-multimeter.webp",
+      "variants": {}
+    },
+    "cat-108-sunwa-yx-360trn-analog-multimeter-pointer-ac-dc-voltage-current-tester-with-leads": {
+      "default": "cat-108-sunwa-yx-360trn-analog-multimeter-pointer-ac-dc-voltage-current-tester-with-leads.webp",
+      "variants": {}
+    },
+    "cat-109-uni-t-ut33d-digital-multimeter-ac-dc-voltage-current-resistance-meter-with-test-leads": {
+      "default": "cat-109-uni-t-ut33d-digital-multimeter-ac-dc-voltage-current-resistance-meter-with-test-leads.webp",
+      "variants": {}
+    },
+    "cat-110-usb-power-capacity-tester-voltage-current-meter-with-data-display": {
+      "default": "cat-110-usb-power-capacity-tester-voltage-current-meter-with-data-display.webp",
+      "variants": {}
+    },
+    "cat-111-4-channel-wireless-rf-remote-control-receiver-module-transmitter-fob-315-433mhz": {
+      "default": "cat-111-4-channel-wireless-rf-remote-control-receiver-module-transmitter-fob-315-433mhz.webp",
+      "variants": {}
+    },
+    "cat-112-4n35-optocoupler-dip-6-gohjmy": {
+      "default": "cat-112-4n35-optocoupler-dip-6-gohjmy.webp",
+      "variants": {}
+    },
+    "cat-113-74hc14d-hex-schmitt-trigger-inverter-soic-14-pumuddsy": {
+      "default": "cat-113-74hc14d-hex-schmitt-trigger-inverter-soic-14-pumuddsy.webp",
+      "variants": {}
+    },
+    "cat-114-775-high-speed-dc-motor-12v-21000rpm-double-ball-bearing-motor-for-diy-drill-saw": {
+      "default": "cat-114-775-high-speed-dc-motor-12v-21000rpm-double-ball-bearing-motor-for-diy-drill-saw.webp",
+      "variants": {}
+    },
+    "cat-115-ap8012h-offline-switching-power-supply-pwm-ic-dip-8": {
+      "default": "cat-115-ap8012h-offline-switching-power-supply-pwm-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-116-bta12-600b-triac-12a-600v-to-220": {
+      "default": "cat-116-bta12-600b-triac-12a-600v-to-220.webp",
+      "variants": {}
+    },
+    "cat-117-bta16-600b-triac-16a-600v-to-220": {
+      "default": "cat-117-bta16-600b-triac-16a-600v-to-220.webp",
+      "variants": {}
+    },
+    "cat-118-bta41-800b-triac-40a-800v-to-3p-zhuang-one-electronics": {
+      "default": "cat-118-bta41-800b-triac-40a-800v-to-3p-zhuang-one-electronics.webp",
+      "variants": {}
+    },
+    "cat-119-ca-1235-adjustable-dc-dc-buck-converter-module-3a-egbo": {
+      "default": "cat-119-ca-1235-adjustable-dc-dc-buck-converter-module-3a-egbo.webp",
+      "variants": {}
+    },
+    "cat-120-cd4011be-quad-2-input-nand-gate-ic-dip-14": {
+      "default": "cat-120-cd4011be-quad-2-input-nand-gate-ic-dip-14.webp",
+      "variants": {}
+    },
+    "cat-121-cd4017-cd4017b-cd4017be-4017-decade-counter-divider-ic-new-original": {
+      "default": "cat-121-cd4017-cd4017b-cd4017be-4017-decade-counter-divider-ic-new-original.webp",
+      "variants": {}
+    },
+    "cat-122-cd4017be-decade-counter-divider-ic-dip-16": {
+      "default": "cat-122-cd4017be-decade-counter-divider-ic-dip-16.webp",
+      "variants": {}
+    },
+    "cat-123-compact-pwm-dc-motor-speed-controller-module-mini-adjustable-speed-control-board": {
+      "default": "cat-123-compact-pwm-dc-motor-speed-controller-module-mini-adjustable-speed-control-board.webp",
+      "variants": {}
+    },
+    "cat-124-cs75n75-n-channel-power-mosfet-75a-75v-to-220": {
+      "default": "cat-124-cs75n75-n-channel-power-mosfet-75a-75v-to-220.webp",
+      "variants": {}
+    },
+    "cat-125-cxd9883am-sop-ic-sony": {
+      "default": "cat-125-cxd9883am-sop-ic-sony.webp",
+      "variants": {}
+    },
+    "cat-126-dc-0-25v-voltage-sensor-module-voltage-divider-board-for-arduino": {
+      "default": "cat-126-dc-0-25v-voltage-sensor-module-voltage-divider-board-for-arduino.webp",
+      "variants": {}
+    },
+    "cat-127-dc-dc-buck-module-red-board-usb-output-dc6-20v-to-5v-3a": {
+      "default": "cat-127-dc-dc-buck-module-red-board-usb-output-dc6-20v-to-5v-3a.webp",
+      "variants": {}
+    },
+    "cat-128-dm-w3002-digital-temperature-controller-module-12v-220v-relay-thermostat-with-sensor-probe": {
+      "default": "cat-128-dm-w3002-digital-temperature-controller-module-12v-220v-relay-thermostat-with-sensor-probe.webp",
+      "variants": {}
+    },
+    "cat-129-dual-usb-dc-dc-step-down-converter-module-javino": {
+      "default": "cat-129-dual-usb-dc-dc-step-down-converter-module-javino.webp",
+      "variants": {}
+    },
+    "cat-130-ir2113-dual-mosfet-driver-module-board-high-low-side-gate-driver-pcb": {
+      "default": "cat-130-ir2113-dual-mosfet-driver-module-board-high-low-side-gate-driver-pcb.webp",
+      "variants": {}
+    },
+    "cat-131-javino-2000w-scr-voltage-regulator-module-high-power-ac-motor-speed-dimmer-controller": {
+      "default": "cat-131-javino-2000w-scr-voltage-regulator-module-high-power-ac-motor-speed-dimmer-controller.webp",
+      "variants": {}
+    },
+    "cat-132-jdq-01-automatic-power-battery-backup-switch-module-5v-48v-10a-sy": {
+      "default": "cat-132-jdq-01-automatic-power-battery-backup-switch-module-5v-48v-10a-sy.webp",
+      "variants": {}
+    },
+    "cat-133-lm2596-dc-dc-buck-module-red-board-usb-output-dc6-20v-to-5v-3a": {
+      "default": "cat-133-lm2596-dc-dc-buck-module-red-board-usb-output-dc6-20v-to-5v-3a.webp",
+      "variants": {}
+    },
+    "cat-134-lm324n-quad-operational-amplifier-ic-dip-14": {
+      "default": "cat-134-lm324n-quad-operational-amplifier-ic-dip-14.webp",
+      "variants": {}
+    },
+    "cat-135-lm358p-dual-operational-amplifier-ic-dip-8": {
+      "default": "cat-135-lm358p-dual-operational-amplifier-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-136-lm3914n-1-led-dot-bar-display-driver-ic-dip-18": {
+      "default": "cat-136-lm3914n-1-led-dot-bar-display-driver-ic-dip-18.webp",
+      "variants": {}
+    },
+    "cat-137-lm393-dual-voltage-comparator-ic-dip-8": {
+      "default": "cat-137-lm393-dual-voltage-comparator-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-138-mc-38-wired-door-window-magnetic-sensor-switch-tdidaz": {
+      "default": "cat-138-mc-38-wired-door-window-magnetic-sensor-switch-tdidaz.webp",
+      "variants": {}
+    },
+    "cat-139-mcp602-mcp6002-dual-op-amp-ic-dip-8": {
+      "default": "cat-139-mcp602-mcp6002-dual-op-amp-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-140-mfrc-522-rfid-rc522-ic-card-reader-module-kit": {
+      "default": "cat-140-mfrc-522-rfid-rc522-ic-card-reader-module-kit.webp",
+      "variants": {}
+    },
+    "cat-141-mh-mini-360-dc-dc-step-down-buck-converter-module-ultra-small-power-step-down-board": {
+      "default": "cat-141-mh-mini-360-dc-dc-step-down-buck-converter-module-ultra-small-power-step-down-board.webp",
+      "variants": {}
+    },
+    "cat-142-mini-dc-dc-boost-converter-module-adjustable-step-up-power-module-with-set-potentiometer": {
+      "default": "cat-142-mini-dc-dc-boost-converter-module-adjustable-step-up-power-module-with-set-potentiometer.webp",
+      "variants": {}
+    },
+    "cat-143-moc3063-zero-cross-optoisolator-triac-driver-dip-6-zhuang-one": {
+      "default": "cat-143-moc3063-zero-cross-optoisolator-triac-driver-dip-6-zhuang-one.webp",
+      "variants": {}
+    },
+    "cat-144-ne555p-precision-timer-ic-dip-8": {
+      "default": "cat-144-ne555p-precision-timer-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-145-ne555p-precision-timer-ic-dip-8-low-quality": {
+      "default": "cat-145-ne555p-precision-timer-ic-dip-8-low-quality.webp",
+      "variants": {}
+    },
+    "cat-146-ne556n-dual-precision-timer-ic-dip-14": {
+      "default": "cat-146-ne556n-dual-precision-timer-ic-dip-14.webp",
+      "variants": {}
+    },
+    "cat-147-pc817-optocoupler-dip-4-sharp": {
+      "default": "cat-147-pc817-optocoupler-dip-4-sharp.webp",
+      "variants": {}
+    },
+    "cat-148-photocell-light-sensor-switch-module-automatic-dusk-to-dawn-streetlight-sensor": {
+      "default": "cat-148-photocell-light-sensor-switch-module-automatic-dusk-to-dawn-streetlight-sensor.webp",
+      "variants": {}
+    },
+    "cat-149-pwm-dc-motor-speed-controller-module-4-5-35v-adjustable-speed-control-board-with-knob": {
+      "default": "cat-149-pwm-dc-motor-speed-controller-module-4-5-35v-adjustable-speed-control-board-with-knob.webp",
+      "variants": {}
+    },
+    "cat-150-qc3-0-diy-fast-charger-step-down-buck-module": {
+      "default": "cat-150-qc3-0-diy-fast-charger-step-down-buck-module.webp",
+      "variants": {}
+    },
+    "cat-151-sg3525an-pwm-switch-mode-power-supply-controller-ic-dip-16": {
+      "default": "cat-151-sg3525an-pwm-switch-mode-power-supply-controller-ic-dip-16.webp",
+      "variants": {}
+    },
+    "cat-152-sw-420-vibration-shock-sensor-module": {
+      "default": "cat-152-sw-420-vibration-shock-sensor-module.webp",
+      "variants": {}
+    },
+    "cat-153-tny278pn-off-line-switcher-ic-dip-7": {
+      "default": "cat-153-tny278pn-off-line-switcher-ic-dip-7.webp",
+      "variants": {}
+    },
+    "cat-154-tps61088-boost-converter-module-8a-high-current-usb-output-dc-dc-step-up-board": {
+      "default": "cat-154-tps61088-boost-converter-module-8a-high-current-usb-output-dc-dc-step-up-board.webp",
+      "variants": {}
+    },
+    "cat-155-ua741cn-operational-amplifier-ic-dip-8": {
+      "default": "cat-155-ua741cn-operational-amplifier-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-156-uc3842an-current-mode-pwm-controller-ic-dip-8": {
+      "default": "cat-156-uc3842an-current-mode-pwm-controller-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-157-uc3843an-current-mode-pwm-controller-ic-dip-8": {
+      "default": "cat-157-uc3843an-current-mode-pwm-controller-ic-dip-8.webp",
+      "variants": {}
+    },
+    "cat-158-uln2003an-darlington-transistor-array-ic-dip-16": {
+      "default": "cat-158-uln2003an-darlington-transistor-array-ic-dip-16.webp",
+      "variants": {}
+    },
+    "cat-159-usb-c-pd-trigger-board-fast-charge-protocol-decoy-module-with-dip-switch-selection": {
+      "default": "cat-159-usb-c-pd-trigger-board-fast-charge-protocol-decoy-module-with-dip-switch-selection.webp",
+      "variants": {}
+    },
+    "cat-160-xh-m601-12v-battery-charging-control-board-with-voltmeter": {
+      "default": "cat-160-xh-m601-12v-battery-charging-control-board-with-voltmeter.webp",
+      "variants": {}
+    },
+    "ed-res-1p": {
+      "default": "ed-res-1p.webp",
+      "variants": {
+        "ed-res-1p-47k": "ed-res-1p-47k.webp",
+        "ed-res-1p-30k": "ed-res-1p-30k.webp",
+        "ed-res-1p-12k": "ed-res-1p-12k.webp",
+        "ed-res-1p-30k-b": "ed-res-1p-30k-b.webp",
+        "ed-res-1p-820k": "ed-res-1p-820k.webp",
+        "ed-res-1p-680k": "ed-res-1p-680k.webp",
+        "ed-res-1p-100": "ed-res-1p-100.webp",
+        "ed-res-1p-220": "ed-res-1p-220.webp",
+        "ed-res-1p-1-1k": "ed-res-1p-1-1k.webp",
+        "ed-res-1p-510": "ed-res-1p-510.webp",
+        "ed-res-1p-51k": "ed-res-1p-51k.webp",
+        "ed-res-1p-10k": "ed-res-1p-10k.webp",
+        "ed-res-1p-270": "ed-res-1p-270.webp",
+        "ed-res-1p-1k": "ed-res-1p-1k.webp",
+        "ed-res-1p-470k": "ed-res-1p-470k.webp",
+        "ed-res-1p-68k": "ed-res-1p-68k.webp",
+        "ed-res-1p-22": "ed-res-1p-22.webp",
+        "ed-res-1p-100k": "ed-res-1p-100k.webp",
+        "ed-res-1p-20k": "ed-res-1p-20k.webp",
+        "ed-res-1p-10": "ed-res-1p-10.webp",
+        "ed-res-1p-2k": "ed-res-1p-2k.webp",
+        "ed-res-1p-6-8k": "ed-res-1p-6-8k.webp",
+        "ed-res-1p-47k-b": "ed-res-1p-47k-b.webp",
+        "ed-res-1p-22k": "ed-res-1p-22k.webp",
+        "ed-res-1p-1m": "ed-res-1p-1m.webp",
+        "ed-res-1p-330k": "ed-res-1p-330k.webp",
+        "ed-res-1p-47": "ed-res-1p-47.webp",
+        "ed-res-1p-680": "ed-res-1p-680.webp",
+        "ed-res-1p-100-b": "ed-res-1p-100-b.webp",
+        "ed-res-1p-220k": "ed-res-1p-220k.webp",
+        "ed-res-1p-150": "ed-res-1p-150.webp",
+        "ed-res-1p-4-7k": "ed-res-1p-4-7k.webp",
+        "ed-res-1p-330": "ed-res-1p-330.webp",
+        "ed-res-1p-470": "ed-res-1p-470.webp"
+      }
+    },
+    "ed-res-pwr": {
+      "default": "ed-res-pwr.webp",
+      "variants": {
+        "ed-res-pwr-120-1w": "ed-res-pwr-120-1w.webp",
+        "ed-res-pwr-10-1w": "ed-res-pwr-10-1w.webp",
+        "ed-res-pwr-220-1w": "ed-res-pwr-220-1w.webp",
+        "ed-res-pwr-150-1w": "ed-res-pwr-150-1w.webp",
+        "ed-res-pwr-12k-1-2w": "ed-res-pwr-12k-1-2w.webp",
+        "ed-res-pwr-1k-1-2w": "ed-res-pwr-1k-1-2w.webp",
+        "ed-res-pwr-100-1-2w": "ed-res-pwr-100-1-2w.webp",
+        "ed-res-pwr-2-2k-1-2w": "ed-res-pwr-2-2k-1-2w.webp",
+        "ed-res-pwr-1-8k-1-2w": "ed-res-pwr-1-8k-1-2w.webp",
+        "ed-res-pwr-560-1-2w": "ed-res-pwr-560-1-2w.webp",
+        "ed-res-pwr-390-1-2w": "ed-res-pwr-390-1-2w.webp",
+        "ed-res-pwr-100-1-2w-b": "ed-res-pwr-100-1-2w-b.webp",
+        "ed-res-pwr-4-7k-1-2w": "ed-res-pwr-4-7k-1-2w.webp",
+        "ed-res-pwr-10k-1-2w": "ed-res-pwr-10k-1-2w.webp",
+        "ed-res-pwr-47-1-2w": "ed-res-pwr-47-1-2w.webp",
+        "ed-res-pwr-46-1-2w": "ed-res-pwr-46-1-2w.webp"
+      }
+    },
+    "ed-res-qw": {
+      "default": "ed-res-qw.webp",
+      "variants": {
+        "ed-res-qw-150": "ed-res-qw-150.webp",
+        "ed-res-qw-1k": "ed-res-qw-1k.webp",
+        "ed-res-qw-56k": "ed-res-qw-56k.webp",
+        "ed-res-qw-8-2": "ed-res-qw-8-2.webp",
+        "ed-res-qw-3-9": "ed-res-qw-3-9.webp",
+        "ed-res-qw-4-7": "ed-res-qw-4-7.webp",
+        "ed-res-qw-39": "ed-res-qw-39.webp",
+        "ed-res-qw-680": "ed-res-qw-680.webp",
+        "ed-res-qw-1": "ed-res-qw-1.webp",
+        "ed-res-qw-6-8k": "ed-res-qw-6-8k.webp",
+        "ed-res-qw-22-1w": "ed-res-qw-22-1w.webp",
+        "ed-res-qw-820": "ed-res-qw-820.webp",
+        "ed-res-qw-33": "ed-res-qw-33.webp",
+        "ed-res-qw-100": "ed-res-qw-100.webp",
+        "ed-res-qw-1-8": "ed-res-qw-1-8.webp",
+        "ed-res-qw-15": "ed-res-qw-15.webp",
+        "ed-res-qw-2-2": "ed-res-qw-2-2.webp",
+        "ed-res-qw-210": "ed-res-qw-210.webp",
+        "ed-res-qw-3-3": "ed-res-qw-3-3.webp",
+        "ed-res-qw-180": "ed-res-qw-180.webp",
+        "ed-res-qw-1-8-b": "ed-res-qw-1-8-b.webp",
+        "ed-res-qw-47": "ed-res-qw-47.webp",
+        "ed-res-qw-56": "ed-res-qw-56.webp",
+        "ed-res-qw-6-8": "ed-res-qw-6-8.webp",
+        "ed-res-qw-10": "ed-res-qw-10.webp",
+        "ed-res-qw-22k": "ed-res-qw-22k.webp",
+        "ed-res-qw-470k": "ed-res-qw-470k.webp",
+        "ed-res-qw-150k": "ed-res-qw-150k.webp",
+        "ed-res-qw-1-8k": "ed-res-qw-1-8k.webp",
+        "ed-res-qw-560k": "ed-res-qw-560k.webp",
+        "ed-res-qw-4-7m": "ed-res-qw-4-7m.webp",
+        "ed-res-qw-100k": "ed-res-qw-100k.webp",
+        "ed-res-qw-330k": "ed-res-qw-330k.webp",
+        "ed-res-qw-3-9k": "ed-res-qw-3-9k.webp",
+        "ed-res-qw-220k": "ed-res-qw-220k.webp",
+        "ed-res-qw-15k": "ed-res-qw-15k.webp",
+        "ed-res-qw-10k": "ed-res-qw-10k.webp",
+        "ed-res-qw-27k": "ed-res-qw-27k.webp",
+        "ed-res-qw-680k": "ed-res-qw-680k.webp",
+        "ed-res-qw-2-2k": "ed-res-qw-2-2k.webp",
+        "ed-res-qw-7-5k": "ed-res-qw-7-5k.webp",
+        "ed-res-qw-82k": "ed-res-qw-82k.webp",
+        "ed-res-qw-47k": "ed-res-qw-47k.webp",
+        "ed-res-qw-120k": "ed-res-qw-120k.webp",
+        "ed-res-qw-4-6k": "ed-res-qw-4-6k.webp",
+        "ed-res-qw-5-6k": "ed-res-qw-5-6k.webp",
+        "ed-res-qw-3-3m": "ed-res-qw-3-3m.webp",
+        "ed-res-qw-2m": "ed-res-qw-2m.webp",
+        "ed-res-qw-1-5k": "ed-res-qw-1-5k.webp",
+        "ed-res-qw-390k": "ed-res-qw-390k.webp",
+        "ed-res-qw-2-2m": "ed-res-qw-2-2m.webp",
+        "ed-res-qw-3k": "ed-res-qw-3k.webp",
+        "ed-res-qw-33k": "ed-res-qw-33k.webp",
+        "ed-res-qw-12k": "ed-res-qw-12k.webp",
+        "ed-res-qw-18k": "ed-res-qw-18k.webp",
+        "ed-res-qw-4-7k": "ed-res-qw-4-7k.webp",
+        "ed-res-qw-180k": "ed-res-qw-180k.webp",
+        "ed-res-qw-3-3k": "ed-res-qw-3-3k.webp",
+        "ed-res-qw-2-7k": "ed-res-qw-2-7k.webp",
+        "ed-res-qw-5-6k-b": "ed-res-qw-5-6k-b.webp"
+      }
+    },
+    "cat-164-cd4040be-cd4040-dip-16": {
+      "default": "cat-164-cd4040be-cd4040-dip-16.webp",
+      "variants": {}
+    },
+    "cat-165-cd4066-cd4066be-dip-14-logic-chip-bi-directional-switch-new-original": {
+      "default": "cat-165-cd4066-cd4066be-dip-14-logic-chip-bi-directional-switch-new-original.webp",
+      "variants": {}
+    },
+    "cat-166-908-60w-adjustable-temperature-electric-soldering-iron-220v-esd-safe-soldering-pen-tool": {
+      "default": "cat-166-908-60w-adjustable-temperature-electric-soldering-iron-220v-esd-safe-soldering-pen-tool.webp",
+      "variants": {}
+    },
+    "cat-167-baku-bk-150-soldering-paste-flux-150g-advanced-quality-soldering-flux-paste": {
+      "default": "cat-167-baku-bk-150-soldering-paste-flux-150g-advanced-quality-soldering-flux-paste.webp",
+      "variants": {}
+    },
+    "cat-168-kawh-900m-series-soldering-iron-tip-knife-k-tip-oxygen-free-copper-lead-free-tip": {
+      "default": "cat-168-kawh-900m-series-soldering-iron-tip-knife-k-tip-oxygen-free-copper-lead-free-tip.webp",
+      "variants": {}
+    }
+  }
+}
