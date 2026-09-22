@@ -30,7 +30,7 @@ Address: ${f.get('address')}
 
 ${state.cart.map(line=>{const p=state.products.find(x=>x.id===line.productId);const v=p?.variants?.find(x=>x.variantId===line.variantId);return `${p?.name}${v?' — '+v.displayName:''} x${line.quantity}`}).join('\\n')}`;window.open('https://wa.me/'+state.site.whatsapp+'?text='+encodeURIComponent(msg),'_blank')}
 function cartLink(){const msg=state.cart.map(line=>{const p=state.products.find(x=>x.id===line.productId);const v=p?.variants?.find(x=>x.variantId===line.variantId);return `${p?.name}${v?' — '+v.displayName:''} x${line.quantity}`}).join('\n');return 'https://wa.me/'+state.site.whatsapp+'?text='+encodeURIComponent('Hello Electronics Dokan, I would like to order:\n\n'+msg)}
-function render(){const path=location.hash.replace(/^#/,'');if(path==='/cart'){renderCart();return}if(path==='/checkout'){renderCheckout();return}const m=path.match(/^\/product\/(.+)$/);if(m){renderProduct(state.products.find(x=>x.id===m[1]));return}if(path==='/catalogue'||path==='/shop'){renderCatalogue();return}renderHome()}
+function render(){const path=location.hash.replace(/^#/,'');if(path==='cart'||path==='/cart'){renderCart();return}if(path==='checkout'||path==='/checkout'){renderCheckout();return}const m=path.match(/^\/product\/(.+)$/);if(m){renderProduct(state.products.find(x=>x.id===m[1]));return}if(path==='catalogue'||path==='/catalogue'||path==='shop'||path==='/shop'){renderCatalogue();return}renderHome()}
 function setCategory(c){state.category=c;setTimeout(render,0)}
 function applySearch(){state.query=$('#search')?.value||'';location.hash='#catalogue';render()}
 function qty(n){const e=$('#qty');if(e)e.textContent=Math.max(1,Number(e.textContent)+n)}
